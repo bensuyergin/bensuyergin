@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bensu</h1>
 <h3 align="center">A passionate IT Assistant Specialist from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bensuyergin&label=Profile%20views&color=0e75b6&style=flat" alt="bensuyergin" /> </p>
-
-
 - 🔭 I’m currently working on **Data Science and Analysis**
 
 - 🌱 I’m currently learning **Machine Learning Algorithms, Statistic**
