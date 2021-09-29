@@ -23,8 +23,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/bensuyergin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bensuyergin/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/bensuyergin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/bensuyergin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bensuyergin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bensuyergin/" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/bensuyergin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/bensuyergin" height="30" width="40" /></a>
 <a href="https://medium.com/@bensu-ye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bensu-ye" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/bensu_ye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/bensu_ye" height="30" width="40" /></a>
 <a href="/https://bensu-ye.medium.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://bensu-ye.medium.com" height="30" width="40" /></a>
